@@ -1,0 +1,5 @@
+ak=input("enter a string")
+print("first 3 characters of the string:", ak[:3])
+print("last 2 characters of the string:", ak[-2:])
+print("every second character of the string :", ak[::2])
+print("string in reverse order:", ak[::-1])
