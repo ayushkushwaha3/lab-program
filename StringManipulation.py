@@ -10,4 +10,4 @@ for ch in s:
     if ch in vowels:
         count += 1
 
-print("Number of vowels:", count)
+print("Number of vowels:", count) 
